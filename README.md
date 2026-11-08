@@ -1,5 +1,9 @@
 # Python Job Listing Web Scraper
 
+Project URL
+
+https://roadmap.sh/projects/job-listings-scraper
+
 ## About the Project
 
 This is a Python web scraping project that extracts job listings from the Fake Python Jobs website.
